@@ -1,0 +1,2 @@
+Shortest Job First Non Preemtive
+Shortest Job First scheduling works on the process with the shortest burst time or duration first.
