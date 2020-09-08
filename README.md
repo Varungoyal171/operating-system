@@ -1,6 +1,9 @@
 # operating System
 
 Operating System Related Algorithm 
+
+click on view code for alogos
+
 we will find out
 
 waiting time for each process - how much each process is waited
